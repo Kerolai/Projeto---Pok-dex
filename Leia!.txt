@@ -1,0 +1,7 @@
+Olá, aqui é a Kerolai =)
+
+Este é um dos meus projetos de estudo retirados do Youtube. 
+@Manual do dev
+- Pokedex com HTML, CSS e JavaScript
+
+Link: <https://www.youtube.com/watch?v=SjtdH3dWLa8>
