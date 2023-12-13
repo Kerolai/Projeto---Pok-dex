@@ -3,5 +3,6 @@ Olá, aqui é a Kerolai =)
 Este é um dos meus projetos de estudo retirados do Youtube. 
 @Manual do dev
 - Pokedex com HTML, CSS e JavaScript
+- Fiz algumas alterações pois o código não estava funcionando como deveria, na parte dos botões.
 
 Link: <https://www.youtube.com/watch?v=SjtdH3dWLa8>
